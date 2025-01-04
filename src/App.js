@@ -1,4 +1,5 @@
 import "./App.css";
+import Data from "./data";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         focus on the layout and aesthetics without worrying about the text
         itself. The use of lorem ipsum dates back to the 16th century.
       </p>
+      <Data />
     </div>
   );
 }
