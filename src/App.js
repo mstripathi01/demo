@@ -14,6 +14,7 @@ function App() {
         focus on the layout and aesthetics without worrying about the text
         itself. The use of lorem ipsum dates back to the 16th century.
       </p>
+      <p>Hello All this javascript new code</p>
     </div>
   );
 }
